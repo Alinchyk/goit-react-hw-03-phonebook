@@ -1,0 +1,16 @@
+.container {
+  display: block;
+  width: 530px;
+  height: 100%;
+  margin: auto;
+  margin-top: 80px;
+  padding-bottom: 20px;
+  box-shadow: 1px 5px 10px 1px #333;
+  background: -webkit-linear-gradient(90deg, #f6f7f8, #e1e8f2, #d9e1ee);
+  background: linear-gradient(90deg, #f6f7f8, #e1e8f2, #d9e1ee);
+}
+
+.title {
+  padding-top: 20px;
+  padding-left: 30px;
+}
